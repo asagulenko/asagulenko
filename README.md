@@ -8,7 +8,7 @@ When I'm not learning about data and analytics, you'll find me out on the water
 ### 🌟 A little about me
 
 - 🌱 **Currently Learning**: Foundations of Data Science
-(MIT Emergent Talent Program!).
+(MIT Emergent Talent Program).
 - 🛠️ **Skills in Progress**: Python, Git, Visual Studio.
 - 🌍 **Goal**: To contribute to impactful projects and grow
 as a data scientist.
