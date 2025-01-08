@@ -13,7 +13,7 @@ When I'm not learning about data and analytics, you'll find me out on the water
 - 🌍 **Goal**: To contribute to impactful projects and grow
 as a data scientist.
 - ⛵ **Hobby**: Sailing whenever I get the chance and the water is not solid!
-- 🏡 **Location**: I currently live in Canada.
+- 🇨🇦 **Location**: I currently live in Canada.
 
 ### 📫 Let's connect
 

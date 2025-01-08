@@ -16,3 +16,4 @@ ignore:
   - .pytest_cache
   - __pycache__
   - README.md
+  - ET6-Programming-With-Python
