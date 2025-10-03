@@ -35,7 +35,6 @@ with creativity and persistence — qualities I’ve honed both in professional 
 ## Connect   
 
 - [LinkedIn](https://www.linkedin.com/in/anna-sagulenko)  
-- Email: anna.sagulenko@email.com  
 
 I’m always open to connecting with other data enthusiasts, sharing ideas, or collaborating on exciting projects.  
 
